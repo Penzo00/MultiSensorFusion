@@ -9,3 +9,5 @@ dependencies:
 - sympy
 - pip:
   - filterpy
+
+  - numpy
